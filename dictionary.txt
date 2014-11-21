@@ -4,3 +4,4 @@ believe
 attempt
 terrible
 experience
+compare
